@@ -1,0 +1,3 @@
+#!/bin/bash
+
+make -f /zfs/courses/CPSC8270/assignments/PA3/Makefile
