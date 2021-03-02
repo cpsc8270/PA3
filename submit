@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git add cool.y good.cl bad.cl
+git add README
+
+git commit -m 'submit by $USER'
+git push
